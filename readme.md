@@ -2,6 +2,13 @@
 
 自分用のJavaベンチマーク記録  
 
+#### + Java Version (java -version)
+```
+openjdk version "11.0.15" 2022-04-19
+OpenJDK Runtime Environment (build 11.0.15+10-Ubuntu-0ubuntu0.20.04.1)
+OpenJDK 64-Bit Server VM (build 11.0.15+10-Ubuntu-0ubuntu0.20.04.1, mixed mode, sharing)
+```
+
 #### + OS (lsb_release -a)
 ```
 No LSB modules are available.
