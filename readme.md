@@ -37,5 +37,6 @@ Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
 #### + GPU (nvidia-smi --query-gpu=index,name,uuid,serial --format=csv)
 ```
 index, name, uuid, serial
-0, NVIDIA GeForce RTX 3080 Ti, GPU-9fcf2c75-c742-c00b-24df-xxxxxxxxx, [N/A]
+0, NVIDIA GeForce RTX 3080 Ti, GPU-xxxxxxxxxxxxxxxxx-xxxxxxxxx, [N/A]
+1, NVIDIA GeForce RTX 2080 SUPER, GPU-xxxxxxxxxxxxxxxxx-xxxxxxxxx, [N/A]
 ```
